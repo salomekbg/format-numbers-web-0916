@@ -77,7 +77,7 @@ num_of_commas = num_of_digits / number of digits between commas
 
 # insert a comma at every index
 
-# return number
+# number should now be 31,415,926,536!
 ```
 
 ### Option Three
