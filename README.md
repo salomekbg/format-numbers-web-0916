@@ -58,11 +58,14 @@ One approach is to take the unformatted number and flip it around, then every th
 Another approach could be to find the length of the string. Divide the length of the string by three, the number of digits that commas sandwich. Make that many multiples of four. Make every element in the array negative and insert commas at these indexes.
 
 ```ruby
+number = "31415926536"
+
 # find the total number of digits
 num_of_digits = length of number
 
 # divide num of digits by three
 num_of_commas = num_of_digits / number of digits between commas
+# num_of_commas should now equal 3
 
 # make an empty array that will keep track of all the indexes where commas should be inserted
 
