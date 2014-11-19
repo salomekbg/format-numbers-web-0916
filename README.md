@@ -84,6 +84,10 @@ num_of_commas = num_of_digits / number of digits between commas
 
 This functionality can also be achieved through one line of regex. Need to brush up on regex? Take a look at [Rubular](http://rubular.com/) and [Regex Crossword](http://regexcrossword.com/). If you really want to know how, try searching [Stack Overflow](http://stackoverflow.com/).
 
+### Other Options
+
+There are probably many other ways to tackle this problem so if you don't see a strategy that you thought of listed on this readme, don't worry. It's probably also a legitimate way to approach this problem.
+
 ## Bonus
 
 Once all your tests pass, take a look at [this post](http://stackoverflow.com/a/721415/2890716). What are positive lookahead assertions? How do they work? 
