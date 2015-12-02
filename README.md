@@ -93,3 +93,5 @@ Once all your tests pass, take a look at [this post](http://stackoverflow.com/a/
 * [Rubular](http://rubular.com/)
 * [Regex Crossword](http://regexcrossword.com/)
 * [Stack Overflow](http://stackoverflow.com/)
+
+<a href='https://learn.co/lessons/format-numbers' data-visibility='hidden'>View this lesson on Learn.co</a>
