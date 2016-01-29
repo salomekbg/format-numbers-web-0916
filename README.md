@@ -94,4 +94,4 @@ Once all your tests pass, take a look at [this post](http://stackoverflow.com/a/
 * [Regex Crossword](http://regexcrossword.com/)
 * [Stack Overflow](http://stackoverflow.com/)
 
-<a href='https://learn.co/lessons/format-numbers' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/format-numbers' title='Format Numbers'>Format Numbers</a> on Learn.co and start learning to code for free.</p>
